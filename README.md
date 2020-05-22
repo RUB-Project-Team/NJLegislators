@@ -68,5 +68,7 @@ Information is available in various format on various sites. We referred NJ Stat
 * Launch Jupyter notebook
 * Click on Karnel>>Restart and Run All. If DB script is installed correctly and pre-requisites are met, program should insert records in to DB tables successfully.
 
- 
+## Final Output - Search Your Legislator
+
+![images/finaloutput.PNG](images/finaloutput.PNG)
 
