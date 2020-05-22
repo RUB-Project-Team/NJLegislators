@@ -1,0 +1,47 @@
+# Modify this code to update the DB schema diagram.
+# To reset the sample schema, replace everything with
+# two dots ('..' - without quotes).
+Dist_Municipality
+--
+Dist_ID int FK >- Senators.Dist_ID
+District varchar(12)
+Town PK varchar(50) FK >- MunicipalMayors.Town
+County PK varchar(25) FK >- MunicipalMayors.County
+
+Senators
+--
+Dist_ID PK int
+Name varchar(100)
+Affiliation varchar(15) 
+
+SenatorAddress
+--
+Address_ID PK int
+Dist_ID int FK >- Senators.Dist_ID
+Add_No int
+Address varchar(500) 
+    
+Assembly
+--
+Dist_ID  int FK >- Senators.Dist_ID
+Name  varchar(100)
+Affiliation varchar(15) 
+
+AssemblyPersonAddress
+--
+Address_ID PK int
+Dist_ID int FK >- Senators.Dist_ID
+Add_No int
+Address varchar(500)
+    
+MunicipalMayors
+--
+Town PK varchar(25)
+Muni_Code int
+Muni_Name varchar(50)
+Mayor_Name varchar(100)
+eMail varchar(100)
+Address varchar(500)
+Phone varchar(25)
+County PK varchar(25)
+Term_End varchar(20)

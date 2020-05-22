@@ -1,0 +1,566 @@
+District Name,Town,County
+District 13,Aberdeen,Monmouth
+District 2,Absecon,Atlantic
+District 23,Alexandria,Hunterdon
+District 24,Allamuchy,Warren
+District 40,Allendale,Bergen
+District 11,Allenhurst,Monmouth
+District 12,Allentown,Monmouth
+District 3,Alloway,Salem
+District 23,Alpha,Warren
+District 37,Alpine,Bergen
+District 24,Andover Borough,Sussex
+District 24,Andover Township,Sussex
+District 11,Asbury Park,Monmouth
+District 2,Atlantic City,Atlantic
+District 13,Atlantic Highlands,Monmouth
+District 5,Audubon,Camden
+District 5,Audubon Park,Camden
+District 1,Avalon,Cape May
+District 30,Avon-by-the-Sea,Monmouth
+District 9,Barnegat,Ocean
+District 9,Barnegat Light,Ocean
+District 5,Barrington,Camden
+District 9,Bass River,Burlington
+District 10,Bay Head,Ocean
+District 31,Bayonne,Hudson
+District 9,Beach Haven,Ocean
+District 9,Beachwood,Ocean
+District 23,Bedminster,Somerset
+District 29,Belleville,Essex
+District 5,Bellmawr,Camden
+District 30,Belmar,Monmouth
+District 24,Belvidere,Warren
+District 38,Bergenfield,Bergen
+District 9,Berkeley,Ocean
+District 21,Berkeley Heights,Union
+District 8,Berlin Borough,Camden
+District 6,Berlin Township,Camden
+District 21,Bernards,Somerset
+District 25,Bernardsville,Somerset
+District 23,Bethlehem,Hunterdon
+District 7,Beverly,Burlington
+District 24,Blairstown,Warren
+District 28,Bloomfield,Essex
+District 39,Bloomingdale,Passaic
+District 23,Bloomsbury,Hunterdon
+District 37,Bogota,Bergen
+District 25,Boonton Township,Morris
+District 25,Boonton town,Morris
+District 7,Bordentown City,Burlington
+District 7,Bordentown Township,Burlington
+District 23,Bound Brook,Somerset
+District 30,Bradley Beach,Monmouth
+District 16,Branchburg,Somerset
+District 24,Branchville,Sussex
+District 10,Brick,Ocean
+District 3,Bridgeton,Cumberland
+District 23,Bridgewater,Somerset
+District 30,Brielle,Monmouth
+District 2,Brigantine,Atlantic
+District 5,Brooklawn,Camden
+District 2,Buena,Atlantic
+District 2,Buena Vista,Atlantic
+District 7,Burlington City,Burlington
+District 7,Burlington Township,Burlington
+District 26,Butler,Morris
+District 24,Byram,Sussex
+District 27,Caldwell Borough,Essex
+District 23,Califon,Hunterdon
+District 5,Camden,Camden
+District 1,Cape May,Cape May
+District 1,Cape May Point,Cape May
+District 36,Carlstadt,Bergen
+District 3,Carneys Point,Salem
+District 19,Carteret,Middlesex
+District 40,Cedar Grove,Essex
+District 21,Chatham Borough,Morris
+District 27,Chatham Township,Morris
+District 6,Cherry Hill,Camden
+District 4,Chesilhurst,Camden
+District 25,Chester Borough,Morris
+District 25,Chester Township,Morris
+District 12,Chesterfield,Burlington
+District 7,Cinnaminson,Burlington
+District 22,Clark,Union
+District 3,Clayton,Gloucester
+District 4,Clementon,Camden
+District 36,Cliffside Park,Bergen
+District 34,Clifton,Passaic
+District 23,Clinton Township,Hunterdon
+District 23,Clinton town,Hunterdon
+District 39,Closter,Bergen
+District 6,Collingswood,Camden
+District 11,Colts Neck,Monmouth
+District 1,Commercial,Cumberland
+District 1,Corbin City,Atlantic
+District 14,Cranbury,Middlesex
+District 21,Cranford,Union
+District 37,Cresskill,Bergen
+District 11,Deal,Monmouth
+District 3,Deerfield,Cumberland
+District 7,Delanco,Burlington
+District 16,Delaware,Hunterdon
+District 7,Delran,Burlington
+District 39,Demarest,Bergen
+District 1,Dennis,Cape May
+District 25,Denville,Morris
+District 5,Deptford,Gloucester
+District 25,Dover,Morris
+District 1,Downe,Cumberland
+District 39,Dumont,Bergen
+District 22,Dunellen,Middlesex
+District 9,Eagleswood,Ocean
+District 15,East Amwell,Hunterdon
+District 18,East Brunswick,Middlesex
+District 3,East Greenwich,Gloucester
+District 27,East Hanover,Morris
+District 32,East Newark,Hudson
+District 34,East Orange,Essex
+District 36,East Rutherford,Bergen
+District 14,East Windsor,Mercer
+District 8,Eastampton,Burlington
+District 11,Eatontown,Monmouth
+District 32,Edgewater Park,Burlington
+District 7,Edgewater,Bergen
+District 18,Edison,Middlesex
+District 2,Egg Harbor City,Atlantic
+District 2,Egg Harbor,Atlantic
+District 20,Elizabeth,Union
+District 3,Elk,Gloucester
+District 3,Elmer,Salem
+District 35,Elmwood Park,Bergen
+District 3,Elsinboro,Salem
+District 39,Emerson,Bergen
+District 37,Englewood Cliffs,Bergen
+District 37,Englewood,Bergen
+District 12,Englishtown,Monmouth
+District 27,Essex Fells,Essex
+District 1,Estell Manor,Atlantic
+District 8,Evesham,Burlington
+District 15,Ewing,Mercer
+District 13,Fair Haven,Monmouth
+District 38,Fair Lawn,Bergen
+District 1,Fairfield,Cumberland
+District 26,Fairfield,Essex
+District 32,Fairview,Bergen
+District 22,Fanwood,Union
+District 21,Far Hills,Somerset
+District 30,Farmingdale,Monmouth
+District 7,Fieldsboro,Burlington
+District 16,Flemington,Hunterdon
+District 7,Florence,Burlington
+District 27,Florham Park,Morris
+District 2,Folsom,Atlantic
+District 37,Fort Lee,Bergen
+District 24,Frankford,Sussex
+District 3,Franklin,Gloucester
+District 23,Franklin,Hunterdon
+District 17,Franklin Lakes,Bergen
+District 24,Franklin,Somerset
+District 23,Franklin,Sussex
+District 40,Franklin,Warren
+District 24,Fredon,Sussex
+District 11,Freehold Borough,Monmouth
+District 11,Freehold Township,Monmouth
+District 24,Frelinghuysen,Warren
+District 23,Frenchtown,Hunterdon
+District 9,Galloway,Atlantic
+District 35,Garfield,Bergen
+District 21,Garwood,Union
+District 6,Gibbsboro,Camden
+District 3,Glassboro,Gloucester
+District 23,Glen Gardner,Hunterdon
+District 28,Glen Ridge,Essex
+District 38,Glen Rock,Bergen
+District 5,Gloucester City,Camden
+District 4,Gloucester Township,Camden
+District 24,Green Brook,Somerset
+District 22,Green,Sussex
+District 1,Greenwich,Cumberland
+District 3,Greenwich,Gloucester
+District 23,Greenwich,Warren
+District 32,Guttenberg,Hudson
+District 37,Hackensack,Bergen
+District 23,Hackettstown,Warren
+District 6,Haddon,Camden
+District 5,Haddon Heights,Camden
+District 6,Haddonfield,Camden
+District 8,Hainesport,Burlington
+District 35,Haledon,Passaic
+District 24,Hamburg,Sussex
+District 2,Hamilton,Atlantic
+District 14,Hamilton,Mercer
+District 8,Hammonton,Atlantic
+District 23,Hampton,Hunterdon
+District 24,Hampton,Sussex
+District 27,Hanover,Morris
+District 27,Harding,Morris
+District 24,Hardwick,Warren
+District 24,Hardyston,Sussex
+District 23,Harmony,Warren
+District 39,Harrington Park,Bergen
+District 5,Harrison,Gloucester
+District 32,Harrison,Hudson
+District 9,Harvey Cedars,Ocean
+District 38,Hasbrouck Heights,Bergen
+District 39,Haworth,Bergen
+District 38,Hawthorne,Passaic
+District 13,Hazlet,Monmouth
+District 18,Helmetta,Middlesex
+District 6,High Bridge,Hunterdon
+District 23,Highland Park,Middlesex
+District 18,Highlands,Monmouth
+District 13,Hightstown,Mercer
+District 14,HillsBorough,Somerset
+District 16,Hillsdale,Bergen
+District 39,Hillside,Union
+District 20,Hi-Nella,Camden
+District 40,Hoboken,Hudson
+District 33,Ho-Ho-Kus,Bergen
+District 23,Holland,Hunterdon
+District 13,Holmdel,Monmouth
+District 24,Hopatcong,Sussex
+District 24,Hope,Warren
+District 1,Hopewell Borough,Mercer
+District 15,Hopewell,Cumberland
+District 15,Hopewell Township,Mercer
+District 30,Howell,Monmouth
+District 24,Independence,Warren
+District 11,Interlaken,Monmouth
+District 28,Irvington,Essex
+District 10,Island Heights,Ocean
+District 12,Jackson,Ocean
+District 14,Jamesburg,Middlesex
+District 26,Jefferson,Morris
+District 31,Jersey City,Hudson
+District 13,Keansburg,Monmouth
+District 32,Kearny,Hudson
+District 21,Kenilworth,Union
+District 13,Keyport,Monmouth
+District 23,Kingwood,Hunterdon
+District 26,Kinnelon,Morris
+District 24,Knowlton,Warren
+District 9,Lacey,Ocean
+District 24,Lafayette,Sussex
+District 30,Lake Como,Monmouth
+District 10,Lakehurst,Ocean
+District 30,Lakewood,Ocean
+District 15,Lambertville,Hunterdon
+District 4,Laurel Springs,Camden
+District 10,Lavallette,Ocean
+District 5,Lawnside,Camden
+District 1,Lawrence,Cumberland
+District 15,Lawrence,Mercer
+District 23,Lebanon Borough,Hunterdon
+District 23,Lebanon Township,Hunterdon
+District 37,Leonia,Bergen
+District 24,Liberty,Warren
+District 26,Lincoln Park,Morris
+District 22,Linden,Union
+District 4,Lindenwold,Camden
+District 2,Linwood,Atlantic
+District 9,Little Egg Harbor,Ocean
+District 40,Little Falls,Passaic
+District 36,Little Ferry,Bergen
+District 13,Little Silver,Monmouth
+District 27,Livingston,Essex
+District 11,Loch Arbour,Monmouth
+District 38,Lodi,Bergen
+District 3,Logan,Gloucester
+District 9,Long Beach,Ocean
+District 11,Long Branch,Monmouth
+District 21,Long Hill,Morris
+District 2,Longport,Atlantic
+District 23,Lopatcong,Warren
+District 1,Lower,Cape May
+District 3,Lower Alloways Creek,Salem
+District 8,Lumberton,Burlington
+District 36,Lyndhurst,Bergen
+District 27,Madison,Morris
+District 5,Magnolia,Camden
+District 39,Mahwah,Bergen
+District 12,Manalapan,Monmouth
+District 30,Manasquan,Monmouth
+District 10,Manchester,Ocean
+District 3,Mannington,Salem
+District 8,Mansfield,Burlington
+District 23,Mansfield,Warren
+District 10,Mantoloking,Ocean
+District 5,Mantua,Gloucester
+District 16,Manville,Somerset
+District 6,Maple Shade,Burlington
+District 27,Maplewood,Essex
+District 2,Margate City,Atlantic
+District 13,Marlboro,Monmouth
+District 12,Matawan,Monmouth
+District 1,Maurice River,Cumberland
+District 38,Maywood,Bergen
+District 8,Medford,Burlington
+District 8,Medford Lakes,Burlington
+District 25,Mendham Borough,Morris
+District 25,Mendham Township,Morris
+District 6,Merchantville,Camden
+District 18,Metuchen,Middlesex
+District 1,Middle,Cape May
+District 22,Middlesex,Middlesex
+District 13,Middletown,Monmouth
+District 40,Midland Park,Bergen
+District 23,Milford,Hunterdon
+District 27,Millburn,Essex
+District 12,Millstone,Monmouth
+District 16,Millstone,Somerset
+District 17,Milltown,Middlesex
+District 1,Millville,Cumberland
+District 25,Mine Hill,Morris
+District 13,Monmouth Beach,Monmouth
+District 4,Monroe,Gloucester
+District 14,Monroe,Middlesex
+District 24,Montague,Sussex
+District 34,Montclair,Essex
+District 16,Montgomery,Somerset
+District 39,Montvale,Bergen
+District 26,Montville,Morris
+District 36,Moonachie,Bergen
+District 7,Moorestown,Burlington
+District 25,Morris Plains,Morris
+District 26,Morris,Morris
+District 25,Morristown,Morris
+District 25,Mount Arlington,Morris
+District 5,Mount Ephraim,Camden
+District 8,Mount Holly,Burlington
+District 7,Mount Laurel,Burlington
+District 24,Mount Olive,Morris
+District 25,Mountain Lakes,Morris
+District 21,Mountainside,Union
+District 2,Mullica,Atlantic
+District 3,National Park,Gloucester
+District 11,Neptune City,Monmouth
+District 11,Neptune,Monmouth
+District 25,Netcong,Morris
+District 17,New Brunswick,Middlesex
+District 12,New Hanover,Burlington
+District 38,New Milford,Bergen
+District 21,New Providence,Union
+District 28,Newark,Essex
+District 3,Newfield,Gloucester
+District 24,Newton,Sussex
+District 36,North Arlington,Bergen
+District 32,North Bergen,Hudson
+District 17,North Brunswick,Middlesex
+District 26,North Caldwell,Essex
+District 35,North Haledon,Passaic
+District 12,North Hanover,Burlington
+District 22,North Plainfield,Somerset
+District 1,North Wildwood,Cape May
+District 2,Northfield,Atlantic
+District 37,Northvale,Bergen
+District 39,Norwood,Bergen
+District 28,Nutley,Essex
+District 39,Oakland,Bergen
+District 6,Oaklyn Borough,Camden
+District 1,Ocean City,Cape May
+District 9,Ocean Gate,Ocean
+District 11,Ocean,Monmouth
+District 9,Ocean,Ocean
+District 13,Oceanport,Monmouth
+District 24,Ogdensburg,Sussex
+District 12,Old Bridge,Middlesex
+District 39,Old Tappan,Bergen
+District 3,Oldmans,Salem
+District 38,Oradell,Bergen
+District 34,City of Orange,Essex
+District 24,Oxford,Warren
+District 37,Palisades Park,Bergen
+District 7,Palmyra,Burlington
+District 38,Paramus,Bergen
+District 39,Park Ridge,Bergen
+District 26,Parsippany-Troy Hills,Morris
+District 36,Passaic,Passaic
+District 35,Paterson,Passaic
+District 3,Paulsboro,Gloucester
+District 23,Peapack - Gladstone,Somerset
+District 8,Pemberton Borough,Burlington
+District 8,Pemberton Township,Burlington
+District 15,Pennington,Mercer
+District 3,Penns Grove,Salem
+District 6,Pennsauken,Camden
+District 3,Pennsville,Salem
+District 40,Pequannock,Morris
+District 19,Perth Amboy,Middlesex
+District 23,Phillipsburg,Warren
+District 3,Pilesgrove,Salem
+District 9,Pine Beach,Ocean
+District 8,Pine Hill,Camden
+District 8,Pine Valley,Camden
+District 17,Piscataway,Middlesex
+District 4,Pitman,Gloucester
+District 3,Pittsgrove,Salem
+District 22,Plainfield,Union
+District 14,Plainsboro,Middlesex
+District 2,Pleasantville,Atlantic
+District 12,Plumsted,Ocean
+District 23,Pohatcong,Warren
+District 30,Point Pleasant Beach,Ocean
+District 10,Point Pleasant,Ocean
+District 40,Pompton Lakes,Passaic
+District 9,Port Republic,Atlantic
+District 16,Princeton Township,Mercer
+District 35,Prospect Park,Passaic
+District 3,Quinton,Salem
+District 22,Rahway,Union
+District 39,Ramsey,Bergen
+District 25,Randolph,Morris
+District 16,Raritan,Hunterdon
+District 23,Raritan,Somerset
+District 16,Readington,Hunterdon
+District 11,Red Bank,Monmouth
+District 36,Ridgefield Park,Bergen
+District 36,Ridgefield,Bergen
+District 40,Ridgewood,Bergen
+District 39,Ringwood,Passaic
+District 38,River Edge,Bergen
+District 39,River Vale,Bergen
+District 40,Riverdale,Morris
+District 7,Riverside,Burlington
+District 7,Riverton,Burlington
+District 14,Robbinsville ,Mercer 
+District 38,Rochelle Park,Bergen
+District 25,Rockaway Borough,Morris
+District 26,Rockaway Township,Morris
+District 37,Rockleigh,Bergen
+District 16,Rocky Hill,Somerset
+District 12,Roosevelt,Monmouth
+District 27,Roseland,Essex
+District 20,Roselle Park,Union
+District 21,Roselle,Union
+District 25,Roxbury,Morris
+District 13,Rumson,Monmouth
+District 5,Runnemede,Camden
+District 36,Rutherford,Bergen
+District 38,Saddle Brook,Bergen
+District 39,Saddle River,Bergen
+District 3,Salem,Salem
+District 24,Sandyston,Sussex
+District 19,Sayreville,Middlesex
+District 22,Scotch Plains,Union
+District 13,Sea Bright,Monmouth
+District 30,Sea Girt,Monmouth
+District 1,Sea Isle City,Cape May
+District 10,Seaside Heights,Ocean
+District 9,Seaside Park,Ocean
+District 32,Secaucus,Hudson
+District 8,Shamong,Burlington
+District 1,Shiloh,Cumberland
+District 9,Ship Bottom,Ocean
+District 11,Shrewsbury Borough,Monmouth
+District 11,Shrewsbury Township,Monmouth
+District 6,Somerdale,Camden
+District 2,Somers Point,Atlantic
+District 16,Somerville,Somerset
+District 19,South Amboy,Middlesex
+District 23,South Bound Brook,Somerset
+District 16,South Brunswick,Middlesex
+District 36,South Hackensack,Bergen
+District 3,South Harrison,Gloucester
+District 27,Village of South Orange,Essex
+District 18,South Plainfield,Middlesex
+District 18,South River,Middlesex
+District 9,South Toms River,Ocean
+District 8,Southampton,Burlington
+District 24,Sparta,Sussex
+District 14,Spotswood,Middlesex
+District 30,Spring Lake Heights,Monmouth
+District 30,Spring Lake Boro,Monmouth
+District 8,Springfield,Burlington
+District 21,Springfield,Union
+District 9,Stafford,Ocean
+District 24,Stanhope,Sussex
+District 24,Stillwater,Sussex
+District 16,Stockton,Hunterdon
+District 1,Stone Harbor,Cape May
+District 1,Stow Creek,Cumberland
+District 6,Stratford,Camden
+District 21,Summit,Union
+District 9,Surf City,Ocean
+District 24,Sussex,Sussex
+District 3,Swedesboro,Gloucester
+District 9,Tabernacle,Burlington
+District 6,Tavistock,Camden
+District 37,Teaneck,Bergen
+District 37,Tenafly,Bergen
+District 36,Teterboro,Bergen
+District 23,Tewksbury,Hunterdon
+District 11,Tinton Falls,Monmouth
+District 10,Toms River ,Ocean 
+District 40,Totowa,Passaic
+District 15,Trenton,Mercer
+District 9,Tuckerton,Ocean
+District 23,Union Beach,Monmouth
+District 20,Union City,Hudson
+District 13,Union,Hunterdon
+District 33,Union,Union
+District 1,Upper,Cape May
+District 3,Upper Deerfield,Cumberland
+District 12,Upper Freehold,Monmouth
+District 3,Upper Pittsgrove,Salem
+District 39,Upper Saddle River,Bergen
+District 2,Ventnor City,Atlantic
+District 24,Vernon,Sussex
+District 26,Verona,Essex
+District 25,Victory Gardens,Morris
+District 1,Vineland,Cumberland
+District 6,Voorhees,Camden
+District 40,Waldwick,Bergen
+District 30,Wall,Monmouth
+District 36,Wallington,Bergen
+District 24,Walpack,Sussex
+District 39,Wanaque,Passaic
+District 24,Wantage,Sussex
+District 21,Warren,Somerset
+District 39,Washington,Bergen
+District 9,Washington Borough,Warren
+District 4,Washington,Burlington
+District 25,Washington,Gloucester
+District 23,Washington,Morris
+District 23,Washington Township,Warren
+District 21,Watchung,Somerset
+District 8,Waterford,Camden
+District 40,Wayne,Passaic
+District 33,Weehawken,Hudson
+District 5,Wenonah,Gloucester
+District 15,West Amwell,Hunterdon
+District 26,West Caldwell,Essex
+District 1,West Cape May,Cape May
+District 3,West Deptford,Gloucester
+District 11,West Long Branch,Monmouth
+District 26,West Milford,Passaic
+District 32,West New York,Hudson
+District 27,West Orange,Essex
+District 1,West Wildwood,Cape May
+District 15,West Windsor,Mercer
+District 8,Westampton,Burlington
+District 21,Westfield,Union
+District 5,Westville,Gloucester
+District 39,Westwood,Bergen
+District 1,Weymouth,Atlantic
+District 25,Wharton,Morris
+District 24,White,Warren
+District 1,Wildwood,Cape May
+District 1,Wildwood Crest,Cape May
+District 7,Willingboro,Burlington
+District 22,Winfield,Union
+District 4,Winslow,Camden
+District 36,Woodbine,Cape May
+District 1,Woodbridge,Middlesex
+District 19,Woodbury,Gloucester
+District 5,Woodbury Heights,Gloucester
+District 3,Woodcliff Lake,Bergen
+District 39,Woodland,Burlington
+District 8,Woodland Park ,Passaic
+District 40,Woodlynne,Camden
+District 5,Wood-Ridge,Bergen
+District 3,Woodstown,Salem
+District 3,Woolwich,Gloucester
+District 12,Wrightstown,Burlington
+District 40,Wyckoff,Bergen
