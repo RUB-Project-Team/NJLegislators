@@ -22,8 +22,6 @@ New Jersey is divided into `21 counties` and contains `565 municipalities ` cons
 
 Most of us heard about elected officials but often do not know who they are and how to reach them. General public does not understand terms like congressional districts, state legislative districts, township districts and so on. The purpose of this short project is to link the State legislators with local townships that will enable to find out our state and local elected leaders are. 
 
-### ETL Project:
-
 #### Scope:
 * Information gathering about NJ State legislators and Mayor - Head of local Township
 * Link State Legislative districts with the townships 
@@ -43,9 +41,11 @@ Most of us heard about elected officials but often do not know who they are and 
 * `https://www.njleg.state.nj.us/members/roster.asp` to get the State Legislators information.
 
 ### `Transform` - Data Parsing:
-* Jupyter notebook is used to transform raw data (csv, excel and webpage). 
+* Jupyter notebook is used to read and transform raw data (csv, excel and webpage) into final dataframes - equivalent to the db tables. 
 * State Roster page shows information about State Senator, Assembly and office addresses along-with other information. 
-* Custom coding to spin through information and separate logically. * Used lambda functions to cleanup some data elements and python capabilities like looping through lists, iterating rows etc. to format and separate the data into logical data-frames that maps to the database tables.
+* Custom coding to navigate through the information and parse it to meaningful information. 
+* Used lambda functions to cleanup up data.
+* Used python programming capabilities like looping through the list, iterating rows etc. to format and separate the data into logical data-frames that maps to the database tables.
 
 #### ERD Diagram:
 
