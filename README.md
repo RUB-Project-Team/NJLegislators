@@ -1,4 +1,4 @@
-# NJ Legislators - Know Your NJ State Legislators
+# NJ State Legislators
 
 ### Background:
 
