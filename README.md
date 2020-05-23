@@ -33,17 +33,16 @@ Most of us heard about elected officials but often do not know who they are and 
 * Congressional district mapping
 * County Freeholders and local ward and township council 
 
-#### Approach:
+#### **E**xtract - Data files: 
+##### Approach:
 
-Information Gathering:
-Information is available in various format on various sites. We referred NJ State official websites. Information used is in csv, excel format. We used Pandas to read HTML data from NJ state website.
-
-#### Data files: 
+* Information Gathering: Information is available in various format on various sites.NJ State official websites were referred to get information. 
+* Information used is in csv, excel format. We used Pandas to read HTML data from NJ state website.
 * DistrictTowns.csv shows information about district number, Township and County.
 * 2020mayors.xls shows information about mayor by township
 * https://www.njleg.state.nj.us/members/roster.asp to get the State Legislators information.
 
-#### Data Parsing:
+#### **T**ransform - Data Parsing:
 * Jupyter notebook is used to transform raw data (csv, excel and webpage). 
 * State Roster page shows information about State Senator, Assembly and office addresses along-with other information. 
 * Custom coding to spin through information and separate logically. * Used lambda functions to cleanup some data elements and python capabilities like looping through lists, iterating rows etc. to format and separate the data into logical data-frames that maps to the database tables.
@@ -59,7 +58,7 @@ Information is available in various format on various sites. We referred NJ Stat
 
 ![images/PgSQL.PNG](images/PgSQL.PNG)
 
-#### Steps to Execute the Project:
+#### **L**oad Data - Steps:
 ##### Pre-requisites: sqlalchemy and psycopg2 is installed in environment
 
 * Please make sure PostgreSQL service is running.
