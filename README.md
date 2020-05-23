@@ -2,7 +2,7 @@
 
 ### Background:
 
-New Jersey is divided into 21 counties and contains 565 municipalities consisting of five types: 254 boroughs, 52 cities, 15 towns, 241 townships, and 3 villages. These 565 municipalities are further divided in 40 New Jersey State legislative districts.
+New Jersey is divided into `21 counties` and contains `565 municipalities ` consisting of five types: 254 boroughs, 52 cities, 15 towns, 241 townships, and 3 villages. These 565 municipalities are further divided in `40 New Jersey State legislative districts`.
 
 ![images/NJ_Capitol.JPG](images/NJ_Capitol.JPG)
 
@@ -10,7 +10,7 @@ New Jersey is divided into 21 counties and contains 565 municipalities consistin
 
 * NJ Federal Legislators: The state of New Jersey has two senators in the United States Senate and 12 representatives in the United States House of Representatives.
 
-* NJ State Legislature: Consists of two Houses: a 40-member Senate and an 80-member General Assembly. The Senate and Assembly chambers are located in the State House in Trenton.
+* NJ State Legislature: Consists of two Houses: a `40-member Senate` and an `80-member General Assembly`. The Senate and Assembly chambers are located in the State House in Trenton.
 
 ![images/NJLegislatorCheamber.jpg](images/NJLegislatorCheamber.jpg)
 
@@ -33,41 +33,47 @@ Most of us heard about elected officials but often do not know who they are and 
 * Congressional district mapping
 * County Freeholders and local ward and township council 
 
-#### **E**xtract - Data files: 
+### `Extract` - Data files: 
 ##### Approach:
 
 * Information Gathering: Information is available in various format on various sites.NJ State official websites were referred to get information. 
 * Information used is in csv, excel format. We used Pandas to read HTML data from NJ state website.
-* DistrictTowns.csv shows information about district number, Township and County.
-* 2020mayors.xls shows information about mayor by township
-* https://www.njleg.state.nj.us/members/roster.asp to get the State Legislators information.
+* `DistrictTowns.csv` shows information about district number, Township and County.
+* `2020mayors.xls` shows information about mayor by township
+* `https://www.njleg.state.nj.us/members/roster.asp` to get the State Legislators information.
 
-#### **T**ransform - Data Parsing:
+### `Transform` - Data Parsing:
 * Jupyter notebook is used to transform raw data (csv, excel and webpage). 
 * State Roster page shows information about State Senator, Assembly and office addresses along-with other information. 
 * Custom coding to spin through information and separate logically. * Used lambda functions to cleanup some data elements and python capabilities like looping through lists, iterating rows etc. to format and separate the data into logical data-frames that maps to the database tables.
 
 #### ERD Diagram:
-* Used https://app.quickdatabasediagrams.com/ to design Entity Relationship Diagram (ERD) for this project.
+
+* Used https://app.quickdatabasediagrams.com/ to design `Entity Relationship Diagram (ERD)` for this project.
+
 ![images/QuickDBD-export.png](images/QuickDBD-export.png)
 
-#### Databse:
+#### Database:
 * PostgreSQL database is used as a back-end. 
-* Six Db tables ['Senators','Dist_Municipality', 'MunicipalMayors', 'SenatorAddress', 'Assembly','AssemblyPersonAddress'] created to store the information from Pandas DataFrame. 
-* sqlalchemy is used to interact with tables within NJLegisltors_db schema.
+* `Six Db tables` ['Senators','Dist_Municipality', 'MunicipalMayors', 'SenatorAddress', 'Assembly','AssemblyPersonAddress'] created to store the information from Pandas DataFrame. 
+* sqlalchemy is used to interact with tables within `NJLegisltors_db` schema.
 
 ![images/PgSQL.PNG](images/PgSQL.PNG)
 
-#### **L**oad Data - Steps:
-##### Pre-requisites: sqlalchemy and psycopg2 is installed in environment
+### `Load`- Data Steps:
+##### Pre-requisites: sqlalchemy and psycopg2 is installed in the python environment.
 
 * Please make sure PostgreSQL service is running.
-* Execute QuickDBD-export.SQL [Please refer folder: NJLegislators\dbScript folder] in PostgreSQL PgAdmin. This will create required DB tables.
-* Please make sure to update DB userID and Password in NJLegislators.config file [Please refer folder NJLegislators]
-* Launch Jupyter notebook
-* Click on Karnel>>Restart and Run All. If DB script is installed correctly and pre-requisites are met, program should insert records in to DB tables successfully.
+* Execute `QuickDBD-export.SQL` [Please refer folder: NJLegislators\dbScript folder] in PostgreSQL PgAdmin. This will create required DB tables in PostgreSQL `NJLegisltors_db` schema.
+* Please make sure to update DB userID and Password in NJLegislators.config file [Please refer folder NJLegislators].
+* Launch Jupyter Notebook.
+* Click on Karnel>>Restart and Run All. If DB script is installed correctly and pre-requisites are met, program should be able to insert records in to DB tables successfully.
 
 ## Final Output - Search Your Legislator
+* Pre-requisites: DB Schema '`NJLegisltors_db` and tables are created in PostgreSQL.
+* DB Tables are loaded with DataFrame data.
+* First two cells of the Jupyter notebook must be executed, if you would like to do legislator search (if data already exists in db tables).
+* `Note`: Please make sure to enter valid township name. Like search is out of scope this project.
 
 ![images/finaloutput.PNG](images/finaloutput.PNG)
 
