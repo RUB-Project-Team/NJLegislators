@@ -61,19 +61,23 @@ Most of us heard about elected officials but often do not know who they are and 
 ![images/PgSQL.PNG](images/PgSQL.PNG)
 
 ### `Load`- Data Steps:
-##### Pre-requisites: sqlalchemy and psycopg2 is installed in the python environment.
-
-* Please make sure PostgreSQL service is running.
+##### PREREQUISITE: 
+* `sqlalchemy` and `psycopg2` is installed in the python environment.
+* PostgreSQL service is running.
 * Execute `QuickDBD-export.SQL` [Please refer folder: NJLegislators\dbScript folder] in PostgreSQL PgAdmin. This will create required DB tables in PostgreSQL `NJLegisltors_db` schema.
 * Please make sure to update DB userID and Password in NJLegislators.config file [Please refer folder NJLegislators].
+
+### Steps to load data:
 * Launch Jupyter Notebook.
-* Click on Karnel>>Restart and Run All. If DB script is installed correctly and pre-requisites are met, program should be able to insert records in to DB tables successfully.
+* Click on Karnel>>Restart and Run All. 
 
 ## Final Output - Search Your Legislator
-* Pre-requisites: DB Schema '`NJLegisltors_db` and tables are created in PostgreSQL.
+#### PREREQUISITE(S): 
+* DB Schema '`NJLegisltors_db` and tables are created in PostgreSQL.
 * DB Tables are loaded with DataFrame data.
+* `NJLegislators.config` file [Please refer folder NJLegislators] us updated with PostgreSQL database userID and Password.
 * First two cells of the Jupyter notebook must be executed, if you would like to do legislator search (if data already exists in db tables).
-* `Note`: Please make sure to enter valid township name. Like search is out of scope this project.
+* `Note`: Please make sure to enter valid township name. Like search is out of scopeof this project.
 
 ![images/finaloutput.PNG](images/finaloutput.PNG)
 
