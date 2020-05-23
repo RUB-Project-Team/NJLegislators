@@ -35,7 +35,7 @@ Most of us heard about elected officials but often do not know who they are and 
 ##### Approach:
 
 * Information Gathering: Information is available in various format on various sites.NJ State official websites were referred to get information. 
-* Information used is in csv, excel format. We used Pandas to read HTML data from NJ state website.
+* Information used is in csv, excel format. We used Pandas to read HTML data from NJ state website, csv and xls files from local directory.
 * `DistrictTowns.csv` shows information about district number, Township and County.
 * `2020mayors.xls` shows information about mayor by township
 * `https://www.njleg.state.nj.us/members/roster.asp` to get the State Legislators information.
@@ -62,7 +62,7 @@ Most of us heard about elected officials but often do not know who they are and 
 
 ### `Load`- Data Steps:
 ##### PREREQUISITE: 
-* `sqlalchemy` and `psycopg2` is installed in the python environment.
+* `sqlalchemy` and `psycopg2` is installed in the python environment. `sqlalchemy` is used to connect to PostgreSQL.
 * PostgreSQL service is running.
 * Execute `QuickDBD-export.SQL` [Please refer folder: NJLegislators\dbScript folder] in PostgreSQL PgAdmin. This will create required DB tables in PostgreSQL `NJLegisltors_db` schema.
 * Please make sure to update DB userID and Password in NJLegislators.config file [Please refer folder NJLegislators].
